@@ -1,5 +1,5 @@
 {
-  "name": "brush-python",
+  "name": "@alexgorbatchev/brush-python",
   "version": "4.0.0",
   "description": "python brush module for SyntaxHighlighter.",
   "keywords": [
