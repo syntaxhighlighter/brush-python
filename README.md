@@ -2,11 +2,11 @@
 
 Python brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-python.svg)](https://travis-ci.org/alexgorbatchev/brush-python)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-python.svg)](https://travis-ci.org/syntaxhighlighter/brush-python)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-python
+    npm install @alexgorbatchev/brush-python
 
 ## Testing
 
